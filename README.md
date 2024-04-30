@@ -30,7 +30,7 @@
 * Data governance generally focuses on data, independent of its meaning. For example, you may want to govern the security of patient data and staff data from a policy and process perspective, despite their differences.
 * Information governance is entirely concerned with the meaning of the data and its relationship in terms of outcomes and value to the organization, customers, and other stakeholders.
 
-  #### The Value of Data Governance
+#### The Value of Data Governance
 
   * Fundamentally, data is driven by a desire to increase the value of data and reduce the risks associated with it. It enforces a leap from an ad hoc approach to daa to one that is strategic in nature.
   * Some of the main advantages achieved by good data governance include:
