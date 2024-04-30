@@ -47,4 +47,7 @@
     10. Reduced data management costs
     11. Established rules for handling data
 
+### Creating a Data Governance Program
+
+The basic steps for creating a data governance program consist of the following. These steps also form the basic outline of this co
 
