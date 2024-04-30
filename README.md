@@ -83,4 +83,12 @@ The basic steps for creating a data governance program consist of the following.
 
 #### Policies, Processes, and Standards
 
-* At the heart of data governance program are policies, processes, and standards that guide responsibilities and support uniformity across the organization. Each of this must be designed,developed
+* At the heart of data governance program are policies, processes, and standards that guide responsibilities and support uniformity across the organization. Each of this must be designed,developed, and deployed.
+* Depending on the size and complexity of the organization.
+
+#### Metrics
+
+
+#### Tools
+
+#### Communication and Collarboration
