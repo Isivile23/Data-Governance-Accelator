@@ -88,6 +88,7 @@ The basic steps for creating a data governance program consist of the following.
 
 #### Metrics
 
+* The data governance program must have a mechanism to measure whether it is delivering the expected results. 
 
 #### Tools
 
