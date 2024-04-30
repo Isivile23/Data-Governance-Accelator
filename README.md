@@ -49,5 +49,38 @@
 
 ### Creating a Data Governance Program
 
-The basic steps for creating a data governance program consist of the following. These steps also form the basic outline of this co
+The basic steps for creating a data governance program consist of the following. These steps also form the basic outline of this course:
 
+1. Defining the vision, goals, and benefits
+2. Analyzing the current state of data governance and management
+3. Developing a proposal based on the first two steps, including a draft plan
+4. Achieving leadership approval
+5. Designing and developing the program
+6. Implementing the program
+7. Monitoring and measuring performance
+8. Maintaining the program
+
+* Data governance is about managing data well and helping to deliver its optimum value to your organization.
+* It includes ensuring your data is available, usable, and secure.
+* Its the actions that team members take, the policies and processes they must follow, and the use of technologies that support them throughout the data lifecycle in their organization.
+* It's safe to say that for a growing number of organizations, data governance is becoming a very big deal.
+
+  ![image](https://github.com/Isivile23/Data-Governance-Accelator/assets/162969923/5a04e6fd-127a-4e66-97db-bfcf75c8759d)
+
+### Developing a Data Governance Framework
+
+![image](https://github.com/Isivile23/Data-Governance-Accelator/assets/162969923/be65e745-41cf-4a2f-8303-7ae2a94f8324)
+
+#### Leadership and Strategy
+
+* Data governance program must be aligned with the strategy of the organization.
+* Data plays a role in many aspects of organizational strategy, including risk management, innovation, and operational efficiencies, so you must ensure theres clear alignment between these aspects and the goals of data governance.
+
+#### Roles and Responsibilities
+
+* Your data governance program will only be possible with the right people doing the right things at the right time.
+* Every data governance framework includes the identification and assignment of specific roles and responsibilities, which range from the information technology (IT) team to data stewards.
+
+#### Policies, Processes, and Standards
+
+* At the heart of data governance program are policies, processes, and standards that guide responsibilities and support uniformity across the organization. Each of this must be designed,developed
