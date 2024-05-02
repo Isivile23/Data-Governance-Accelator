@@ -191,3 +191,21 @@ The differences Between Data and Information:
 * Knowledge is what we get when we understand and can use that information. It's about applying information in a practical way.
 * Wisdom builds on knowledge by adding judgment and experience. It's knowing not just what to do, but also when and why to do it.
 * Insight is the deepest level of understanding. It combines knowledge and wisdom to see things in a new light and make better decisions.
+
+To summarize, consider the following:
+
+* Harry Styles is data.
+* The fact that Harry Styles is a singer and was in the group, One Direction, is information.
+* The fact that Harry Styles has aspirations to become a solo artist and is looking for a record deal is knowledge.
+* The fact that One Direction was a very successful band with talented and popular individuals and knowing that Harry Styles is a creative artist who now wants a solo record deal is wisdom.
+* Ensuring that Columbia Records make the decision to sign Harry Styles before anyone else does is insight.
+
+
+![image](https://github.com/Isivile23/Data-Governance-Accelator/assets/162969923/897c4a65-52ec-4272-bd3d-9b089419bffe)
+
+
+### The Role of Data in the 21st Century
+
+Data's importance has skyrocketed since the mid-20th century. While always valuable, the explosion of computer systems dramatically increased the amount, quality, and accessibility of data. The internet's arrival in the 90s echoed the dream of information at everyone's fingertips, making data a true game-changer.
+
+
