@@ -274,3 +274,10 @@ One way to define and characterize big data is through these five Vs:
 
 #### Drivers of Big Data
 
+* At a technology conference in 2003, the then-CEO of Google, Eric Schmidt. At the time said that every two days the world was creating more data than all the data created since the dawn of civilization.
+* Big data was a thing even before Android and Apple smartphones and apps started generating data. This was before we had connected billions of devices, called the Internet of Things (IoTs), which would eventually begin collecting all manner of data. Big data even predates videos of cats published every day on social media platforms.
+* By the third decade of the 21st century, with so many devices connected and the world in a state of digital transformation, the volume of data being created had experienced a Cambrian explosion — a term the data science community has adopted from an early period in history notable for the rapid introduction of life into the natural environment.
+* In 2021, global technology use generated 79 zettabytes of data, and it is anticipated to hit 180 zettabytes in 2025. A learner seeing this course in 2040 might read the previous sentence and not be impressed at such small numbers, the same way a 32GB smartphone was considered a large amount of space in 2015.
+
+#### Consequences of Big Data
+
