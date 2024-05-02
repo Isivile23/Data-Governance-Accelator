@@ -116,4 +116,38 @@ The basic steps for creating a data governance program consist of the following.
 
 * On a basic level, data culture is how your organization values data and how it manages and uses it. There’s a wide chasm between companies that simply manage data as a consequence of doing business versus those that consider data central to how their organization operates and makes decisions (the latter being the qualities exhibited by a mature data culture).
 
+### Maturing the Data Culture
+
+
+If you decide that you need to better prepare the organization for data governance by maturing the data culture, consider these items to start. Good news! Many of these items are covered in detail in this course. 
+
+1. Help leaders communicate the value of data and model the type of behavior that demonstrates that data is a priority. This must include communicating the positive results of using data.
+   
+2. Provide basic tools and education for data use that include manipulating data, analytics, data cleansing, basic query commands, and visualization. Don’t overlook the remarkable capabilities of common applications such as spreadsheets.
+
+3. Do something, even if it’s small, to show progress. A successful data culture doesn’t begin with the deployment of complex, far-reaching solutions. Rather, it can be eased into the organization via basic data-management skills offered in a classroom setting or online.
+ 
+4. Recognize that resistance and frustration are part of the journey. Rather than fighting it, find ways to bring comfort and rewards to team members. At a minimum, provide a channel for feedback and positive discussion.
+
+#### Assessing Data Governance Readiness
+
+This course takes you through all the steps for designing and creating a data governance program, but you also have to consider the readiness of an organization prior to beginning the journey.
+
+The following basic checklist of items will help you determine the data governance readiness of your organization:
+
+* The basis of data culture exists.
+* The program is 100 percent aligned with the business strategy.
+* Senior leadershipp is 100 percent committed to program and its goals.
+* Senior leadership understands this is a strategic, enterprise program and not the sole responsibility of the IT department.
+* One or more sponsors have been identified at an executive level.
+* The program has the commitment to fund its creation and to maintain it in the long term.
+* The organization understands tis is an ongoing program and not a one-off project.
+* You have documented the return-on-investment (ROI).
+* Legal and compliance teams understand and supports the goals of the program.
+* Fundamental data skills exist for the data governance journey.
+* The IT organization is capable and resourced to support the program.
+
+## Chapter 2: Exploring a World Overflowing with Data
+
+### Defining Data
 
