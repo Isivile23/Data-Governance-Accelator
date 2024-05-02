@@ -151,3 +151,25 @@ The following basic checklist of items will help you determine the data governan
 
 ### Defining Data
 
+A solid definition of data and its role today gets us on the same page and sets the stage for delivering on the promise of data governance.
+
+#### Why all the focus on data
+
+* Data refers to collections of digitally stored units, in other words, stuff that is kept on a computing device.
+* These units represent something meaningful when processed for a human or a computer.
+* Single units of data are tradionally referred to as datum and multiple units as data.
+
+Data is also defined based on its captured format. Specifically, at a high level, it falls into one of the following categories:
+
+1. Structured: Data that has been formatted to a set structure; each data unit fits nicely into a table in a database. It’s ready for analysis. Examples include first name, last name, and phone number.
+2. Unstructured: Data that are stored in a native format must be processed to be used. Further work is required to enable analysis. Examples include email content and social media posts.
+3. Semi-structured: Data that contains additional information to enable the native format to be searched and analyzed.
+
+### Welcome to The Zettabyte Era
+
+* As we entered the 21st century and the volume of data being created and stored grew rapidly. A hyperconnected world accelerating in its adoption and use of digital tools has required dusting off a seldom-used metric to capture the enormity of data output we were producing.
+
+
+  ![image](https://github.com/Isivile23/Data-Governance-Accelator/assets/162969923/5816e176-2517-40b6-bf84-3ca6d34876e0)
+
+* Today, we live in the zettabyte era. A zettabyte is a big number. A really big number. It’s 1021, or a 1 with 21 zeros after it. It looks like this: 1,000,000,000,000,000,000,000 bytes.
