@@ -173,3 +173,21 @@ Data is also defined based on its captured format. Specifically, at a high level
   ![image](https://github.com/Isivile23/Data-Governance-Accelator/assets/162969923/5816e176-2517-40b6-bf84-3ca6d34876e0)
 
 * Today, we live in the zettabyte era. A zettabyte is a big number. A really big number. It’s 1021, or a 1 with 21 zeros after it. It looks like this: 1,000,000,000,000,000,000,000 bytes.
+
+
+  ![image](https://github.com/Isivile23/Data-Governance-Accelator/assets/162969923/cb74672d-144f-4ef5-a58c-0081106f9b63)
+
+
+### From Data to Insight
+
+* Data that is never used is about as useful as producing reports that nobody reads. The assumption is that you have data for a reason. You have your data and it’s incredibly important to your organization, but it must be converted to information to have meaning.
+
+The differences Between Data and Information:
+
+![image](https://github.com/Isivile23/Data-Governance-Accelator/assets/162969923/0c99aff9-8255-4bc3-ad2a-0fa0869d0448)
+
+
+* Information is the raw data or facts we encounter.
+* Knowledge is what we get when we understand and can use that information. It's about applying information in a practical way.
+* Wisdom builds on knowledge by adding judgment and experience. It's knowing not just what to do, but also when and why to do it.
+* Insight is the deepest level of understanding. It combines knowledge and wisdom to see things in a new light and make better decisions.
