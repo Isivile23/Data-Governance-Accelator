@@ -88,8 +88,32 @@ The basic steps for creating a data governance program consist of the following.
 
 #### Metrics
 
-* The data governance program must have a mechanism to measure whether it is delivering the expected results. 
+* The data governance program must have a mechanism to measure whether it is delivering the expected results.
+* Capturing metrics and delivering them to a variety of stakeholders is importrant for maintaing support, which includes funding.
+* You'll want to know if your efforts are delivering on the promise of the program.
+* Based on the metrics, you and your team can make continuous improvements to ensure that the program is producing value.
 
-#### Tools
+#### Tools 
+
+* Fortunately, a large market now exists for tools in support of data governance and management.
+* These include tools foe master data management,data catalogs, search, security, integration, analytics, and compliance.
+* In recent years, many data science-related tools have made leaps in terms of incorporating ease-of-use and automation.
+* What used to be complex has been democratized and empowered more team members to better manage and derive value from data.
 
 #### Communication and Collarboration
+
+* With the introduction of data governance and the ongoing, sometimes evolving, requirements, high-quality communications are key.
+* This takes many forms, including in-person meetings, emails, newsletters, and workshops.
+* Change management, in particular, requires careful attention to ensure that impacted team members understand how the changes brought about by the data governance program affect them and their obligations.
+
+### Preparing for Data Governance
+
+#### What is data culture?
+
+* Culture will always defeat the greatest of strategies almost every time. Imagine for a moment designing and deploying a data governance program for an organization that has little or no data culture. Intuitively this sounds like a disaster in the making. To be fair, every organization has some form of a data culture; it just might not be in an ideal state.
+
+#### Assessing the Data Culture
+
+* On a basic level, data culture is how your organization values data and how it manages and uses it. There’s a wide chasm between companies that simply manage data as a consequence of doing business versus those that consider data central to how their organization operates and makes decisions (the latter being the qualities exhibited by a mature data culture).
+
+
