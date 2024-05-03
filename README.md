@@ -308,4 +308,21 @@ Businesses use data extensively in their operations. This data helps them track 
 
 #### Strategy
 
+Every organization, from the whole company to individual departments, needs a strategy. This strategy should analyze the challenges faced and propose solutions to achieve the organization's goals.  To be successful, this strategy needs to be implemented effectively through operational excellence.  In other words, a good strategy paired with smooth operations is key to achieving goals.  Developing a strategy typically involves analyzing the situation, drawing conclusions, and creating a plan based on guiding principles.
+
+While data is crucial, it shouldn't be the only factor when creating a plan.  Experience and other perspectives are also important.  The best plans consider a healthy mix of data and non-data sources.
+
+#### Decision-Making
+
+* It’s generally accepted in business that the highest form of value derived from data is the ability to make better-informed decisions.
+* The volume and quality of data available today have no precedent in history.
+* Easy access to information has changed decision-making. Consumers can research health issues before seeing a doctor, which can be helpful but also lead to problems with inaccurate information. In businesses, this access to data allows for faster, better-informed decisions based on real-time information, giving them a significant advantage.
+
+#### Measuring
+
+Businesses are constantly collecting data, both intentionally and unintentionally. This data helps them understand how the business is running (often following the idea that "what gets measured gets managed"). Ideally, leaders would have all the data they need to make informed decisions.
+
+Data measurements can be quantitative or qualitative. Quantitative data is most often described in numerical terms, whereas qualitative data is descriptive and expressed in terms of language.
+
+
 
