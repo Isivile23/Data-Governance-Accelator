@@ -349,3 +349,21 @@ Here's a summary of the text on insight management:
 
 #### Reporting
 
+Perhaps the most obvious manifestation of data and information management in any organization is the use of reports. Creating, delivering, receiving, and acting on reports are fundamental functions of any organization. Some say they are the backbone of every business. That sounds overly glamorous, but it does speak to the importance of reporting and reports.
+
+The content of a report, which can be summarized or detailed, contains data and information in a structured manner. For example, an expenditure report would provide a basic overview of the purpose of the report and then support it with relevant information. That could include a list of all expenditures for a department over a certain period or it could just be a total amount. It will depend on the audience and purpose. The inclusion of visuals is popular.
+
+For example, a chart considered a visual form of storytelling, is a way to present data so that it can be interpreted more quickly. With so much data and complexity in today’s business environment, data storytelling is growing as both a business requirement and as an in-demand business skill.
+
+The report may have a discussion of the findings and will conclude with a summary and sometimes a set of recommendations.
+
+#### Other Roles for Data
+
+Here's a summary of the text on other important uses of data in organizations:
+
+* AI: Data is like fuel for AI. The more high-quality data AI has, the better it performs at tasks like identifying patterns and making predictions. AI can also be used to improve data quality and usage within an organization.
+* Problem-solving: Data is crucial throughout the problem-solving process. It helps define problems, identify solutions, evaluate options, and measure the success of chosen solutions.
+* Data reuse: Data collected for one purpose can often be reused for entirely different reasons. For example, customer data collected by sales might be reused by marketing for targeted campaigns. This can reduce data collection efforts and get more value out of the data an organization has. However, data reuse needs to be done carefully to ensure it complies with data use regulations.
+
+### Improving Outcomes with Data
+
