@@ -324,5 +324,16 @@ Businesses are constantly collecting data, both intentionally and unintentionall
 
 Data measurements can be quantitative or qualitative. Quantitative data is most often described in numerical terms, whereas qualitative data is descriptive and expressed in terms of language.
 
+#### Monitoring
 
+Monitoring is the continuous process of checking on something's performance. This could be a project, system, or anything you're interested in. It involves collecting data and comparing it to a target or expectation (like how many widgets a machine should produce). Monitoring helps ensure things are running smoothly, stably, and reliably.
+
+Data monitoring is the process of continuously collecting data and using it to track performance (e.g., machine output, employee activity) and generate insights. This data is then fed into reports, dashboards, and real-time systems to help make informed decisions.
+
+Here are two key points from the passage:
+
+* Monitoring connects data and decision-making: It acts like a bridge, turning raw data into actionable insights across different departments. For instance, a team might measure data on a process, another team monitors that data, and a separate department might take action based on the insights.
+* Data monitoring ensures data quality: It's not just about collecting data, it's also about making sure the data is accurate and complete. This is done by setting specific data quality metrics (like completeness and accuracy) and continuously monitoring them.
+
+#### Insight Management
 
