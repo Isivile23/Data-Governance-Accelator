@@ -367,3 +367,72 @@ Here's a summary of the text on other important uses of data in organizations:
 
 ### Improving Outcomes with Data
 
+Now that the diverse roles of data have been identified and discussed, it’s useful to understand how data can be leveraged to acquire its maximum value. It begins with recognizing that data is an organizational asset. This simply means that it’s something that brings economic value to the organization. It’s clear to see this when it is pointed out, but many team members don’t yet look at data this way. When data is considered an asset - in fact, specifically a high-value asset - it often gets treated differently.
+
+### Approaching Data as an Asset
+
+* An asset is something that is owned by a person, an organization, or a government with the expectation that it can bring some economic benefit. This includes the generation of income, the reduction of expenses, or an increase in net worth.
+* Organizations care about both types of assets because they typically get captured in their financial accounts. Listing the value of assets presents the true state of any organization and reflects its financial health. In addition, capturing and valuing assets is required for determining tax obligations and for acquiring loans.
+* After it is processed from its raw form, data has the potential to create enormous economic value for all manner of stakeholders. Here are some examples of the economic value of data:
+
+1. Improves operations.
+2. Increases existing revenue.
+3. Produces new forms of revenue.
+4. Builds relationships with customers and other stakeholders.
+5. Improves the quality of products and services.
+6. Contributes to competitive advantage.
+7. Enables innovation.
+8. Reduces risk.
+
+* Recognizing that data is an asset is the first step to good data governance.
+* Bottom line: Data is an asset and for its value to be leveraged, it must be governed. This may be one of the most important motivations for good data governance.
+
+### Data Analytics
+
+* Raw data is largely useless. If you’ve ever briefly glanced at a large data set that has columns and rows of numbers, it quickly becomes clear that not much can be gathered from it.
+* In order to make sense of data, you have to apply specific tools and techniques. The process of examining data in order to produce answers or find conclusions is called data analytics.
+* A formal and disciplined approach is conducted by a data analyst, and it’s a necessary step for any individual or organization that’s trying to make good decisions for their organization.
+
+![image](https://github.com/Isivile23/Data-Governance-Accelator/assets/162969923/9e911a8b-110e-4a9c-941f-6d9d046d9d7b)
+
+Data analytics has four primary types:
+
+1. Descriptive:  Existing data sets of historical data are accessed, and analysis is performed to determine what the data tells stakeholders about the performance of a key performance indicator (KPI) or other business objectives. It is insight on past performance.
+2. Diagnostic:  As the term suggests, this analysis tries to glean from the data the answer to why something happened. It takes descriptive analysis and looks at the cause.
+3. Predictive:  In this approach, the analyst uses techniques to determine what may occur in the future. It applies tools and techniques to historical data and trends to predict the likelihood of certain outcomes.
+4. Prescriptive:  This analysis focuses on what action should be taken. In combination with predictive analytics, prescriptive techniques provide estimates of the probabilities of a variety of future outcomes.
+
+![image](https://github.com/Isivile23/Data-Governance-Accelator/assets/162969923/5fa8ae0c-5389-4a5f-8aeb-5d3730706f5e)
+
+*  Data analytics involves the use of a variety of software tools depending on the needs, complexities, and skills of the analyst.
+*  Beyond your favorite spreadsheet program, which can deliver a lot of capabilities, data analysts use products such as R, Python, Tableau, Power BI, QlikView, and others.
+
+### Data Management
+
+* Data management is not the same as data governance! But they work closely together to deliver results in the use of enterprise data.
+* Data governance concerns itself with, for example, defining the roles, policies, controls, and processes for increasing the quality and value of organizational data.
+* Data management is the implementation of data governance. Without data management, data governance is just wishful thinking. To get value from data, there must be execution.
+* At some level, all organizations implement data management. If you collect and store data, technically you’re managing that data. What matters in data management is the degree of sophistication that is applied to managing the value and quality of data sets.
+* Poor data management often results in data silos across an organization, security and compliance issues, errors in data sets, and overall low confidence in the quality of data.
+
+#### Who woulld choose to make decisions based on bad data?
+
+On the other hand, good data management can result in more success in the marketplace. When data is handled and treated as a valuable enterprise asset: insights are richer and timelier, operations run smoother, and team members have what they need to make more informed decisions. Well-executed data management can translate to reduced data security breaches, and lower compliance, regulatory, and privacy issues.
+
+Data management processes involve the collection, storage, organization, maintenance, and analytics of an organization’s data. It includes the architecture of technology systems such that data can flow across the enterprise and be accessed whenever and by whom it is approved for use. Additionally, responsibilities will likely include such areas as data standardization, encryption, and archiving.
+
+Technology team members have elevated roles in all these activities, but all business stakeholders have some level of data responsibilities, such as compliance with data policies and with realizing data value.
+
+* In summary, good data management provides the opportunity for significantly enhanced organizational performance.
+
+#### Governing Data
+
+* Governing data means that some level of control exists to support a related policy. For example, an organization may decide that to reduce risk, there needs to be a policy that requires data to be backed up every day.
+* The control would be the documentation of the process and enforcement of that policy. If, in the review of policy adherence, data wasn’t getting backed up, then you’d quickly know that governance, for whatever reason, was not working.
+* To fully realize the potential of data in your organization means that data must be governed. Any time an organizational resource or asset is left unmanaged, it’s either a recipe for disaster or a missed opportunity. Even a small amount of governance beats no governance every single day.
+
+The success of governing data can be reduced to three essential factors:
+
+* People:  While recognizing that data is increasingly created and used exclusively by machines without human intervention, handling and benefiting from data is still a highly people-centric exercise. Even in a machine-centric context, it’s people who are most often defining, designing, and maintaining data use. In governing data, people are the subject matter experts, they are responsible for quality, and they oversee and manage all related processes and responsibilities.
+* Policies:  A data policy contains a set of adopted rules by an organization that apply to the handling of data in specific conditions and for particular desired outcomes. These policies apply in areas such as quality, privacy, retention, and security. The number of policies is typically a reflection of the size of the organization, the industry, and the degree to which data is considered a high-priority asset. As you can imagine, the healthcare and financial industries, for example, which manage high volumes of sensitive data, have a significant number of data policies in support of their data governance programs.
+* Policies:  A data policy contains a set of adopted rules by an organization that apply to the handling of data in specific conditions and for particular desired outcomes. These policies apply in areas such as quality, privacy, retention, and security. The number of policies is typically a reflection of the size of the organization, the industry, and the degree to which data is considered a high-priority asset. As you can imagine, the healthcare and financial industries, for example, which manage high volumes of sensitive data, have a significant number of data policies in support of their data governance programs.
