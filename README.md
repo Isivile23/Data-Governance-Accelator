@@ -436,3 +436,127 @@ The success of governing data can be reduced to three essential factors:
 * People:  While recognizing that data is increasingly created and used exclusively by machines without human intervention, handling and benefiting from data is still a highly people-centric exercise. Even in a machine-centric context, it’s people who are most often defining, designing, and maintaining data use. In governing data, people are the subject matter experts, they are responsible for quality, and they oversee and manage all related processes and responsibilities.
 * Policies:  A data policy contains a set of adopted rules by an organization that apply to the handling of data in specific conditions and for particular desired outcomes. These policies apply in areas such as quality, privacy, retention, and security. The number of policies is typically a reflection of the size of the organization, the industry, and the degree to which data is considered a high-priority asset. As you can imagine, the healthcare and financial industries, for example, which manage high volumes of sensitive data, have a significant number of data policies in support of their data governance programs.
 * Policies:  A data policy contains a set of adopted rules by an organization that apply to the handling of data in specific conditions and for particular desired outcomes. These policies apply in areas such as quality, privacy, retention, and security. The number of policies is typically a reflection of the size of the organization, the industry, and the degree to which data is considered a high-priority asset. As you can imagine, the healthcare and financial industries, for example, which manage high volumes of sensitive data, have a significant number of data policies in support of their data governance programs.
+
+## Chapter 4: Transorming Through Data
+
+### Examining the Broader Value of Data
+
+* The ability of team members to access data that they need for their work, without having to rely on specialists, is called data democratization.
+* As organizations grow and more systems are employed, eventually no single person knows what data is available and where it is in the enterprise.
+*  Without this knowledge, the ability to properly govern your data and leverage its value is greatly hampered. Without deliberate actions, data democratization becomes elusive.
+*  A data silo is a data repository controlled by an entity in an organization but not frequently shared or known by other parts of the business.
+*   Data silos hinder business efficiencies because they reduce collaboration and increase data inconsistencies. In addition, they are a source of risk, including security and regulatory issues.
+* Data governance helps eliminate unnecessary data siloes and makes data discoverable and available whenever and wherever it adds value.
+* Data catalogs, discussed in this chapter, are an essential way that data governance can help solve these limitations.
+
+Knowing what data is available is essential for the following reasons:
+
+* Better informed decision-making.
+* Ensuring compliance and regulatory requirements.
+* Lower costs by avoiding duplicate system and data efforts.
+* Improved data analytics and reporting.
+* Higher performing systems.
+* More efficient operations.
+* Reducing data inconsistencies across the enterprise.
+
+* Fortunately, the vendor community is ready to help you build your internal search capabilities. It’s taken some time, but solutions have come a long way. With investment and effort, finding data and information in the enterprise is possible.
+
+### Data Catlogs
+
+You can take a few approaches to assist your organization so that your team members can find data. One option involves the creation of an enterprise search engine. It’s certainly possible, but not easy, and will face some limitations such as the discoverability of confidential data that is deliberately siloed. In addition, a search engine won’t necessarily provide insights on whether data is available, current, accurate, or complete. Its common purpose is simply to provide you with the location of the data.
+
+Another, increasingly popular, method of data discoverability is the creation of an enterprise data catalog. Like a store catalog that categorizes products and includes details such as availability and price, a data catalog lists the availability of data sets and includes a wide range of valuable details about that data.
+
+The thre essential benefits of data catalogs are:
+
+1. Finding data: Helps users identify and locate data that may be useful.
+2. Understanding data:  Answers a wide variety of data questions such as its purpose and who uses it.
+3. Making data more useful:  Creates visibility, describes value, and provides access to information.
+
+* Done right, a data catalog delivers a comprehensive inventory that provides an enterprise view of all data.
+* This view provides essential insight that helps with leveraging data value and provides a robust tool to assist with data governance.
+* A data catalog is more than just a list of all data sets. Sure, for many organizations, this feature alone would add enormous value.
+* What makes a data catalog particularly valuable is that it contains data about the data. It’s called metadata.
+
+A data catalog can contain three types of metadata: technical, business, and operational.
+
+1. Technical metadata:  Data about the design of a data set such as its tables, columns, file names, and other documentation related to the source system.
+2. Organizational data such as a business description, how it is used, its relevancy, an assessment of data quality, and users and their interactions.
+3. Operational metadata:  Data such as when the data was last accessed, who accessed it, and when was it last backed up.
+
+Examples of metadata include the following:
+
+* Associated systems.
+* File names.
+* File locations.
+* Data owners.
+* Data descriptions.
+* Dates created.
+* Dates last modified.
+* List of database tables and views.
+* Data stewards.
+* Size of data sets.
+* Quality score.
+* Comments.
+
+* For a large number of stakeholders ranging from data analysts to data stewards, a data catalog presents many advantages. Primarily, the ability to find data tops the list. But it provides much more than that.
+
+With a data catalog, an organization can:
+
+* Know what data it has (and by extension, know what data is missing).
+* Reduce data duplication.
+* Increase operational efficiencies and innovation.
+* Understand data quality.
+* Manage compliance.
+* Enjoy cost savings from improved operations.
+
+### From Data to Insights
+
+* If you can’t use your data to make better decisions and drive your organization forward, the data may just be worthless.
+
+Acquiring and applying insight from data means defining the following:
+
+* Context: Understanding the environment and objectives of the outcome
+* Need: Determining how insight will help to accomplish the objective
+* Vision: Having ideas about how insight will help and what that might look like in practice
+* Outcome:  Specifying how insights will be adopted and success will be measured
+
+These dimensions can be used to answer questions such as:
+
+* What data is required?
+* Does the data exist?
+* Is it current?
+* Is it easily available?
+* What format is the data in?
+* What kind of data analysis is required?
+* How will the data be presented?
+
+* Converting data into insights is no easy task. It’s complicated and skilled work and relies on good quality data that is accessible. Those tasked with delivering insights often cite data quality, data volume, work effort, and integrating data from various sources as the top reasons that make it difficult and create a deterrent to adoption.
+* Quality insights can provide a competitive advantage and operational excellence, but organizations have work to do to fully realize their potential.
+
+### Data Analytics
+
+* More realistically, to realize the benefits of data and discover insights, you need analytics. Analytics unlocks the power embedded in good-quality data.
+* Data analytics involves both specialized skills and software to explore data sets and extract insights that may be useful to an organization.
+*  Data analysis is concerned with identifying a data set, examining it, and reporting on any findings.
+
+The similarity in terms and overall purpose should be noted, but understanding the difference is important.
+
+The source of data for analytics is one or a combination of the following:
+
+* First-party data:  Data that an organization collects.
+* Second-party data:  Data that is obtained from another organization.
+* Third-party data:  Aggregated data obtained from a provider.
+
+Typical uses of contemporary data analytics tools and techniques include:
+
+1. Vastly improved decision-making
+2. Focused marketing campaigns
+3. Understanding the competitive landscape
+4. Designing more innovative products
+5. Better customer service
+6. Improved operations
+7. Insights on customer behavior
+
+### Data Monetization
+
