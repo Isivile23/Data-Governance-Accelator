@@ -596,5 +596,20 @@ Consider these reasons that organizations don’t take a proactive approach to m
 Every one of these is valid. If your business is not open or able to recognize the potential upside of managing data as a high-value asset, it will be an uphill battle to convince them otherwise. 
 
 * The purpose of any type of strategy is to agree on a set of guiding principles that inform decision-making in support of a desired outcome. In simple terms, it’s the roadmap on how to reach your goals.
-* A business strategy describes how a business will achieve its vision and mission. It creates clarity for leaders and team members on what to do, what to avoid, and how to prioritize actions.  Having a clear strategy is important to avoid confusion and wasted effort.  However, creating and communicating a strategy can be difficult and some businesses neglect this important step
+* A business strategy describes how a business will achieve its vision and mission. It creates clarity for leaders and team members on what to do, what to avoid, and how to prioritize actions.  Having a clear strategy is important to avoid confusion and wasted effort.  However, creating and communicating a strategy can be difficult and some businesses neglect this important step.
+* The passage says that strategic plans can be created for more than just overall company goals. Every department and function within a company can benefit from having a strategic plan to support the overall goals. This includes plans for managing important assets like data.
   
+### Creating a Data Strategy
+
+So, you’ve made the decision to create a data strategy. That’s great. Before jumping in, consider the following characteristics as a guide to your approach:
+
+* Data maturity:  This can be defined simply as the degree to which the organization already uses and optimizes data and has experience and skills, as well as the quality of the existing data. All organizations use data, but there’s a big difference between those that have prioritized it for a long period and those just deciding to treat it as a strategic asset. For example, without some basic data standards, security policies, and a process to cleanse data, layering analytics on top of it will likely cause frustration and in the worst case, errors in the results.
+* Industry and size: You can think of data prioritization through two frameworks: defense and offense. Defense deals with fundamental areas such as data security and quality. Offense is using data for insight management and market-facing initiatives. Every organization does both, but most emphasize one over the other depending on the industry and its size. For example, a healthcare company may prioritize a defense framework for data given the highly regulated nature of the industry.
+
+A data strategy should typically account for these five areas of data requirements:
+
+1. Identify:  To find and make data usable, it must be clearly defined and described. This includes a file name, a file format, and metadata.
+2. Store:  Design and develop the capabilities for supporting the place and process for hosting data and how it will be shared, accessed, and processed.
+3. Store:  Design and develop the capabilities for supporting the place and process for hosting data and how it will be shared, accessed, and processed.
+4. Process:  Raw data must be transformed to become valuable. This includes processes for data cleansing, standardization, and integration with other data sets.
+5. Govern:  Institute processes to manage and communicate data policies for data use within the organization.
