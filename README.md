@@ -573,5 +573,16 @@ Many ways exist to determine data valuation. Here is a brief summary of a few me
 
 * What’s clear from data valuation methods is that none of them are perfect. Above all, data valuation is very hard. But in practice don’t be discouraged. It’s hard for every type of organization. Fortunately, a number of providers are ready to help if you want outside assistance.
 
-#### Data-Driven Decison Making
+### Data-Driven Decison Making
+
+Six-step process to data-driven decision-making:
+
+1. Define the objectives:  This step involves understanding the objectives relative to the effort and their alignment with organizational goals. This will help you scope the work and define the metrics. In fact, it can be useful to define success and then work backward. For example, if you’re trying to increase sales in a particular region, you need to identify which metrics to capture in order to determine whether you achieved that objective.
+2. Identify the data:  In addition to using a data catalogue, enterprise search, or similar, this step requires engaging with impacted stakeholders. Getting input from a diverse group of people and teams will help you scope the data. This may generate the need to gather data that doesn’t exist. You may need to consult with data stewards, data owners, and others with data governance responsibilities.
+3. Prepare the data:  After Step 2, you'll understand the degree of preparation you need. If the problem you’re trying to solve is narrow and the data is easily accessible and high-quality, you’ll be in pretty good shape. In most cases, your situation is unlikely to be simple. The data necessary to meet your decision-making objectives will likely come in a variety of formats and will be in need of some remediation. You may need some deep data science skills to prepare the data for use in a data analytics platform.
+4. Analyze the data:  Once you reach this point, the most exciting part begins. The assumption is that you’re using a useful analytics tool. For complex analysis and continuous efforts, several tools will be used. This could include support for an ETL architecture (Extract, Transform, and Load). This is when data is extracted from one system and made ready and available for use in another. To analyze this data, you will also need relevant representations such as visualizations. These could include graphs and charts. Your tool selection and how the data is presented will depend largely on the audience. For executives, a dashboard may be the right approach.
+5. Determine the findings:  Once you have data that you can display in a variety of ways, you can ask questions about it. For example, if you’re trying to understand customer demographics relative to sales in a particular region, you may want to toggle between different age ranges. While all phases of DDDM have complexity, the tough work here is knowing which questions to ask. This skill is aided by training, but experience helps.
+6. Take action:  That’s all there is to this step. Make your decisions. If you’ve completed Steps 1-5 well, but no action is taken (assuming that’s not the decision based on analyzing the data since concluding that no decision is necessary is, in fact, a decision), you’ve wasted a lot of time. DDDM is all about the decisions that result in actions.
+
+### Developing a Data Strategy for Improved Results
 
