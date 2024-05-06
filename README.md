@@ -586,3 +586,15 @@ Six-step process to data-driven decision-making:
 
 ### Developing a Data Strategy for Improved Results
 
+Consider these reasons that organizations don’t take a proactive approach to managing data:
+
+* “If it ain’t broke”, why fix it?
+* It’s too expensive and time-consuming to focus on data.
+* It’s far too complicated.
+* Data management and governance — what is that?
+
+Every one of these is valid. If your business is not open or able to recognize the potential upside of managing data as a high-value asset, it will be an uphill battle to convince them otherwise. 
+
+* The purpose of any type of strategy is to agree on a set of guiding principles that inform decision-making in support of a desired outcome. In simple terms, it’s the roadmap on how to reach your goals.
+* A business strategy describes how a business will achieve its vision and mission. It creates clarity for leaders and team members on what to do, what to avoid, and how to prioritize actions.  Having a clear strategy is important to avoid confusion and wasted effort.  However, creating and communicating a strategy can be difficult and some businesses neglect this important step
+  
