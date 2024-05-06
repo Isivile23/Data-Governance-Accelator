@@ -560,3 +560,18 @@ Typical uses of contemporary data analytics tools and techniques include:
 
 ### Data Monetization
 
+* Intuitively, when something has a high value, it’s likely to be treated differently from things with little value.
+* Without a process to place a price on a data set - called data valuation - the value of a given data set may be highly subjective and may differ considerably between the perspectives of team members.
+* It's very likely that some of your personal information is being traded often in an open marketplace. You probably agreed to it in the small print that none of us ever read when using a new online service. It means that data about you has a market price.
+
+Many ways exist to determine data valuation. Here is a brief summary of a few methods.
+
+* Cost value method:  Value is calculated by determining how much it costs to produce, store, and replace lost data. It’s a simple method and can be useful as a lightweight approach, but it is subjective and doesn’t necessarily account for the economic value that the data can produce.
+* Market value approach:  Value is calculated by researching how comparable data is being priced in the open market. It’s a great approach if market-based comparable data exists but doesn’t work for the vast number of data sets that are not traded.
+* Economic value approach:  Value is calculated by measuring the impact a data set has on the business’s bottom line. It’s a difficult approach because it may be nearly impossible to identify the specific value of the data relative to other contributors of value.
+* With-and-without method:  Value is calculated by quantifying the impact on cash flow if a data set needs to be replaced. Scenarios with and without the data are explored and the difference between cash flow is used to determine data value. Like others, this can be challenging to pinpoint the specific impact of a data set.
+
+* What’s clear from data valuation methods is that none of them are perfect. Above all, data valuation is very hard. But in practice don’t be discouraged. It’s hard for every type of organization. Fortunately, a number of providers are ready to help if you want outside assistance.
+
+#### Data-Driven Decison Making
+
